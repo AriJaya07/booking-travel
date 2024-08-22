@@ -1,0 +1,7 @@
+first
+composer install 
+
+RUN
+php spark serve
+
+https://support.exabytes.co.id/id/support/solutions/articles/14000139053-cara-upload-codeigniter-4-ke-hosting-cpanel
